@@ -34,6 +34,10 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "9ad0874f-b03c-456d-90a0-a485906d8298",
+      "PreviousItemId": "50fdce08-287e-489a-a146-2b8c56da7a17"
     }
   ],
   "IconResourcesKeys": [],
